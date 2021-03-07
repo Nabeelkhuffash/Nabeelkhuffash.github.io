@@ -1,0 +1,76 @@
+<style >
+
+/*for some reason file dont read the first style so i made trash to solove that*/
+.trash{
+
+}
+
+a:hover {
+    color: #005c99;
+    opacity: 50%;
+}
+
+a {
+    color: #0F447B;
+}
+
+p
+{
+    margin:1.5vw;
+}
+
+.p {
+    background-color: #A5C1DE;
+    border-style: solid;
+    border-color: #A5C1DE;
+    border-width: 5px;
+    font-family: 'Courier New';
+    font-size: 1.2vw;
+    margin: 1.5vw;
+    width:38vw;
+}
+
+.C {
+    background-color: #A5C1DE;
+    width: 40%;
+    border-style: solid;
+    border-color: #A5C1DE;
+    border-width: 5px;
+    font-size: 1.2vw;
+    padding: 0;
+    padding-left: 2vw;
+    margin:1.5vw;
+}
+
+.D {
+    background-color: #A5C1DE;
+    width: 40%;
+    border-style: solid;
+    border-color: #A5C1DE;
+    border-width: 5px;
+    font-size: 1.2vw;
+    padding: 0;
+    padding-left: 2vw;
+    margin: 1.5vw;
+}
+h3 {
+    background-color: #5BA2EC;
+    color: #EFEFEF;
+    padding-top: 0.15vw;
+    padding-bottom: 0.15vw;
+    padding-right: 0.3vw;
+    padding-left: 0.3vw;
+    border-left: solid 0.375vw #0F447B;
+    font-size: 1.2vw;
+    margin: 1.5vw;
+}
+.mainheader {
+    background-color: #5BA2EC;
+    color: white;
+    font-size: 4vw;
+    width: 52vw;
+    border-left: solid 0.8vw #0F447B;
+    margin: 1.5vw;
+}
+
+</style>
