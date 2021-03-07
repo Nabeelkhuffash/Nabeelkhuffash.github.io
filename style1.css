@@ -1,0 +1,56 @@
+<style >
+
+/*for some reason file dont read the first style so i made trash to solove it*/
+.trash{
+
+}
+p.B {
+    background-color: #A5C1DE;
+    width: 40%;
+    border-style: solid;
+    border-color: #A5C1DE;
+    border-width: 5px;
+    font-family: 'Courier New';
+}
+
+a:hover {
+    color: #005c99;
+    opacity: 50%;
+}
+
+a {
+    color: #0F447B;
+}
+
+ul.C {
+    background-color: #A5C1DE;
+    width: 40%;
+    border-style: solid;
+    border-color: #A5C1DE;
+    border-width: 5px;
+}
+
+ol.D {
+    background-color: #A5C1DE;
+    width: 40%;
+    border-style: solid;
+    border-color: #A5C1DE;
+    border-width: 5px;
+}
+h3 {
+    background-color: #5BA2EC;
+    color: #EFEFEF;
+    width: 19%;
+    padding:2px;
+    border-left: solid 0.375vw #0F447B;
+}
+h1.A {
+    background-color: #5BA2EC;
+    color: white;
+    width: 52%;
+    border-color: #5BA2EC;
+    font-size: 300%;
+    border-left: solid 8px #0F447B;
+}
+
+</style>
